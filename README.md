@@ -3,4 +3,4 @@ gaming experience for players with a browser.
 
 Tech Stack : HTML, CSS, and JavaScript
 
-Visit : https://isatyamshivam.github.io/web-tiktactoe/
+Visit : https://isatyamshivam.github.io/tiktactoe/
